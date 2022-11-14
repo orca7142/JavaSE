@@ -22,7 +22,7 @@ public class MainClass01 {
 		double numDouble = 10.1;
 		
 		System.out.println(numInt);
-		System.out.println(numDouble);
+		System.out.println(numDouble); 
 	}
 
 }
