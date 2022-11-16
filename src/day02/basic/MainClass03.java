@@ -10,7 +10,7 @@ package day02.basic;
  * 
  * 
  */
-public class MainCalss03 {
+public class MainClass03 {
 	public static void main(String[] args) {
 		// char 형 변수 선언과 동시에 값 대입하기
 		char ch1 = 'A';

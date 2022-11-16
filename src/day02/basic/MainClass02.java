@@ -15,7 +15,7 @@ import javax.swing.plaf.synth.SynthOptionPaneUI;
 
 
 
-public class MainCalss02 {
+public class MainClass02 {
 	
 	
 	public static void main(String[] args) {
